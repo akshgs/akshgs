@@ -46,8 +46,8 @@ Junior AI/ML Engineer at **Strokx Technologies**. Actively learning and building
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshgs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshgs&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=akshgs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=akshgs&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ Junior AI/ML Engineer at **Strokx Technologies**. Actively learning and building
 ## Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshgs&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akshgs&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=6" />
 </p>
 
 ---
