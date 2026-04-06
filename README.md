@@ -1,64 +1,76 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF¢er=true&vCenter=true&width=500&lines=Hi%2C+I'm+Aksh+%F0%9F%91%8B;Data+Science+%26+AI+Engineer;Building+vedha-ai+%F0%9F%9A%80;Open+to+Internships+%26+Collabs!" alt="Typing SVG" />
-  </a>
-</h1>
+<h1 align="center">Akash GS</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshgs&label=Profile+Views&color=0e75b6&style=flat" alt="akshgs"/>
+  <b>Data Science & AI/ML Engineer · Building in Public</b><br/>
+  <i>From raw data to intelligent models — that's my craft</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-1d9e75?style=flat-square" />
+  <img src="https://img.shields.io/badge/Specialization-AI%2FML%20%26%20Data%20Science-7f77dd?style=flat-square" />
+  <img src="https://img.shields.io/badge/Building-vedha--ai-0f6e56?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=akshgs&style=flat-square&color=0e75b6" />
 </p>
 
 ---
 
 ## About Me
 
-- Building **vedha-ai** — AI-powered career platform for students
-- Passionate about **Data Cleaning, EDA & Feature Engineering**
-- Learning **Machine Learning** and **FastAPI**
-- Open to **internships** and **collaborations**
+AI/ML Engineer at **Strokx Technologies**, building real-world AI systems — RAG pipelines, fine-tuned models, computer vision apps, and data pipelines. Currently building **vedha-ai**, an AI-powered career platform for students. Documenting every step of my learning on LinkedIn.
+
+| Focus Area | Topics |
+|---|---|
+| 🤖 AI / ML | LLMs · RAG · Fine-tuning · NLP |
+| 👁️ Computer Vision | OpenCV · YOLOv8 · VLMs (PaliGemma) |
+| 📊 Data Science | EDA · Feature Engineering · Pandas |
+| ☁️ Data Engineering | Kafka · Snowflake · Docker · AWS S3 |
 
 ---
 
 ## Tech Stack
 
-## Skills
+**AI / ML**
+`Python` `Scikit-learn` `LangChain` `RAG` `Transformers` `HuggingFace` `NLP` `TTS`
 
-**Data Science & ML**
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Advanced-150458?style=flat&logo=pandas)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-Intermediate-F7931E?style=flat&logo=scikit-learn)
-![EDA](https://img.shields.io/badge/EDA-Advanced-FF6B6B?style=flat)
+**Computer Vision**
+`OpenCV` `YOLOv8` `VLMs` `ONNX Runtime` `PaliGemma` `Feature Detection`
 
-**Web & API**
-![FastAPI](https://img.shields.io/badge/FastAPI-Intermediate-009688?style=flat&logo=fastapi)
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-3178C6?style=flat&logo=typescript)
+**Data & Infrastructure**
+`Pandas` `EDA` `Snowflake` `Apache Kafka` `AWS S3` `Docker` `FastAPI`
 
-**Tools**
-![Jupyter](https://img.shields.io/badge/Jupyter-Expert-F37626?style=flat&logo=jupyter)
-![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-Expert-007ACC?style=flat&logo=visual-studio-code)
 ---
 
 ## Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [vedha-ai](https://github.com/akshgs/vedha-ai) | AI career platform for students | Python, FastAPI |
-| [personal_portfolio](https://github.com/akshgs/personal_portfolio) | My portfolio website | TypeScript |
-| [DataScience_Roadmap_2025](https://github.com/akshgs/DataScience_Roadmap_2025) | Complete DS learning roadmap | Jupyter |
-| [EDA_and_Feature_Engineering](https://github.com/akshgs/EDA_and_Feature_Engineering) | EDA techniques and best practices | Python |
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| [vedha-ai](https://github.com/akshgs/vedha-ai) | AI-powered career platform for students — resume analysis, roadmap generation using LLMs | Python, FastAPI, RAG | 🟡 In Progress |
+| [DataScience_Roadmap_2025](https://github.com/akshgs/DataScience_Roadmap_2025) | Complete DS/AI learning roadmap with curated notebooks and hands-on exercises | Jupyter, Python, ML | 🟢 Active |
+| [EDA_and_Feature_Engineering](https://github.com/akshgs/EDA_and_Feature_Engineering) | Deep-dive EDA and feature engineering with real datasets | Pandas, Matplotlib | 🟢 Active |
+
+---
+
+## By the Numbers
+
+| 38 AI Skills Tracked | 3+ AI Projects | 10+ LinkedIn Posts |
+|---|---|---|
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshgs&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshgs&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akshgs&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshgs&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-<p align="center">
-  <i>"Turning data into insight and impact"</i>
-</p>
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/akshgs)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/akshgs)
+
+---
+
+<p align="center"><i>"I don't just learn AI — I build with it, document everything, and ship in public."</i></p>
