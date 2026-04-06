@@ -15,7 +15,7 @@
 
 ## About Me
 
-Junior AI/ML Engineer at **Strokx Technologies**. Actively learning and building real AI systems — from data pipelines to computer vision apps. My main project is **vedha-ai**, an AI-powered career platform for students. Documenting every step of my learning on LinkedIn, tracking **38 AI/ML skills**.
+Junior AI/ML Engineer . Actively learning and building real AI systems — from data pipelines to computer vision apps. My main project is **vedha-ai**, an AI-powered career platform for students. Documenting every step of my learning on LinkedIn, tracking **38 AI/ML skills**.
 
 | Focus Area | Topics | Level |
 |---|---|---|
